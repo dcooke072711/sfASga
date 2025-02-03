@@ -752,7 +752,7 @@
         OceanusLogo.Position = UDim2.new(0.5, 0, 0.5, 0)
         OceanusLogo.Size = UDim2.new(0, 448, 0, 150)
         OceanusLogo.Visible = true
-        OceanusLogo.Image = "http://www.roblox.com/asset/?id=117118107288493"
+        OceanusLogo.Image = "http://www.roblox.com/asset/?id=108584400896125"
         OceanusLogo.ImageColor3 = Color3.fromRGB(159, 115, 255)
         OceanusLogo.ImageTransparency = 1
 
